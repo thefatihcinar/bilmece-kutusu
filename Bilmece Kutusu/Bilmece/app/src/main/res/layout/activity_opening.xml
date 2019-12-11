@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/newBlack"
+    tools:context="com.example.user.bilmece.Opening">
+
+    <TextView
+        android:id="@+id/tvFuture"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="33dp"
+        android:layout_marginStart="33dp"
+        android:layout_marginTop="240dp"
+
+        android:alpha="0"
+        android:background="@color/newBlack"
+        android:fontFamily="@font/faster_one"
+        android:text="FUTURE"
+        android:textColor="@color/darkerWhite"
+        android:textSize="70sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/tvTechnologies"
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:layout_marginBottom="191dp"
+        android:layout_marginEnd="60dp"
+        android:layout_marginStart="60dp"
+        android:alpha="0"
+        android:fontFamily="@font/coda"
+        android:text="TECHNOLOGIES"
+        android:textColor="@color/darkerWhite"
+        android:textSize="35sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/tvFuture"
+        app:layout_constraintVertical_bias="0.0" />
+
+</android.support.constraint.ConstraintLayout>

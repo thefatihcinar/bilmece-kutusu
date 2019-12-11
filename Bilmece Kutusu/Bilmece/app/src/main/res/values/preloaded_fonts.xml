@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/aclonica</item>
+        <item>@font/allan</item>
+        <item>@font/architects_daughter</item>
+        <item>@font/cairo_extralight</item>
+        <item>@font/chewy</item>
+        <item>@font/coda</item>
+        <item>@font/faster_one</item>
+        <item>@font/nunito_sans_extralight</item>
+        <item>@font/oregano</item>
+        <item>@font/pacifico</item>
+        <item>@font/press_start_2p</item>
+        <item>@font/quantico</item>
+        <item>@font/satisfy</item>
+        <item>@font/the_girl_next_door</item>
+        <item>@font/yesteryear</item>
+    </array>
+</resources>

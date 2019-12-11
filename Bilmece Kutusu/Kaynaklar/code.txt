@@ -1,0 +1,1100 @@
+iterator = new Bilmece();
+iterator.setSoru("Asla olmadým, daima olucaðým, beni ne gören oldu ne de bulacak, yine de ben nefes alan ve yaþayan herkesin güvencesiyim. Peki ben neyim?");
+iterator.setYanit("Gelecek");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Yumurta dereden karþýya nasýl geçer?");
+iterator.setYanit("Tavuðun içinde");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Ortaya bir gümüþ yüzük koydum, ay geldi alamadý, güneþ geldi, aldý.");
+iterator.setYanit("Buz");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Ben varmadan o varýr, her þeyden çok yol alýr.");
+iterator.setYanit("Ses");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Sarý öküzün yattýðý yerde ot bitmez.");
+iterator.setYanit("Ateþ");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Söylemesi kolay bulmasý kolay olmayan þey .");
+iterator.setYanit("Ýþ");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Ne kadar yaðmur yaðarsa yaðsýn daha çok ýslanmayan nedir?");
+iterator.setYanit("Su");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Ne kadar çoksa o kadar az görürsün.");
+iterator.setYanit("Karanlýk");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Büyüðü yürümez, küçüðü büyümez.");
+iterator.setYanit("Taþ");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Gözle görülmez elle tutulmaz ama gelip geçtiðini biliyoruz nedir bu?");
+iterator.setYanit("Zaman");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Yemez, içmez, susuz yerde durmaz.");
+iterator.setYanit("Köprü");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Köþede bulunur ama dünyayý dolaþýr.");
+iterator.setYanit("Posta pulu");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Konuþursam o gider.");
+iterator.setYanit("Sessizlik");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Su gibi yumuþak, taþ gibi sert.");
+iterator.setYanit("Toprak");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Yataðý var uyumaz aðzý var konuþmaz.");
+iterator.setYanit("Akarsu");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Mini mini minare içi sarý lale.");
+iterator.setYanit("Ampül");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Karýnca kaderince yolda gider ince ince?");
+iterator.setYanit("Dikiþ makinesi");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Dörtlü ayrýlmaz, iki ikiyi takip eder, hepsi havaya muhtaç.");
+iterator.setYanit("Araba lastikleri");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Bir kuþum var düz uçar.");
+iterator.setYanit("Mermi");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Bir dalda iki leylek, biri iner biri kalkar.");
+iterator.setYanit("Terazi");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Herkesi doyurur, kendi doymaz.");
+iterator.setYanit("Fýrýn");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Her þeyi yer ama hiç doymaz.");
+iterator.setYanit("Ateþ");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Baþý var, kaþý yok, kuþ türüdür tüyü çok.");
+iterator.setYanit("Kartal");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Tadým yoktur ama Dünya için önemliyim.");
+iterator.setYanit("Su");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Topraða basmaz bacaðý yok, halýya basar sahibi çok.");
+iterator.setYanit("Ev terliði");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Tek gözüm var dünyayý gezerim.");
+iterator.setYanit("Kamera");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Yol alýr ama yolda da býrakýr.");
+iterator.setYanit("Tekerlek");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Çok uzun her renk ne zaman bitecek bu renk?");
+iterator.setYanit("Ýplik");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Yukarý çýkar, aþaðý inmez.");
+iterator.setYanit("Yaþ");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Bir þey var her gün gelir.");
+iterator.setYanit("Uyku");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Tüyden bile hafif olan tutulmasý en zor þey nedir.");
+iterator.setYanit("Nefes");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Þehirden köye kadar giderim ama hiç hareket etmem.");
+iterator.setYanit("Yol");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Yukarýda küçük aþaðýda büyük");
+iterator.setYanit("Uçak");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Yere düþüp kýrýlmayan, suya düþüp de ýslanmayan þey nedir?");
+iterator.setYanit("Iþýk");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Aðzý var yiyemez, saklar ama gizleyemez.");
+iterator.setYanit("Saklama kabý");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Yerin altýnda sarý benek.");
+iterator.setYanit("Altýn");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Yer altýnda civcivli tavuk.");
+iterator.setYanit("Patates");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Varken yok olan, yokken var olan þey nedir?");
+iterator.setYanit("Korku");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Varma sakýn yanýna, on parmaðýn bal olur. Tutmak istersen yavaþ tut, iki elin kan olur.");
+iterator.setYanit("Karadut");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Tüm insanlarýn her zaman yaptýðý þey nedir?");
+iterator.setYanit("Yaþlanmak");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Yeþil atlas, suda batmaz.");
+iterator.setYanit("Zeytinyaðý");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Hangi dünyada yaþanmaz?");
+iterator.setYanit("Hayal dünyasýnda");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Yol biter o bitmez.");
+iterator.setYanit("Ufuk Çizgisi");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Dünyadaki herkes konuþunca beni kýrýyor. Ben neyim?");
+iterator.setYanit("Sessizlik");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Koþuyor ama uçmuyor. Bu nedir?");
+iterator.setYanit("Deve kuþu");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Öne gitmiyor, arkaya da gitmiyor, ama bunu herkes kullanýyor?");
+iterator.setYanit("Asansör");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Ben giderim o gider ben kalýrým o da kalýr?");
+iterator.setYanit("Gölge");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Yüzlerce iðnesi var ama dikiþ dikemez.");
+iterator.setYanit("Kirpi");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Örülmemiþ duvarda doðmamýþ olan çocuðu oturur, ekilmemiþ bostaný yolma diye baðýrýr.");
+iterator.setYanit("Yalan");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Yol üstünde kýrmýzý iplik.");
+iterator.setYanit("Solucan");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Yersen biterim, yemezsen yine biterim.");
+iterator.setYanit("Dondurma");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Mona Lisa tablosu nerede asýlýdýr?");
+iterator.setYanit("Duvarda");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Birisine gün içinde hep ayný soruyu sorarýz fakat hep farklý cevap verir. Bu soru nedir?");
+iterator.setYanit("Saat kaç?");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Bir evim var, dolandým kapýsýný bulamadým.");
+iterator.setYanit("Yumurta");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Bin bir þekilli kitap.");
+iterator.setYanit("Boyama kitabý");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Baþý topuz, saçý otuz.");
+iterator.setYanit("Süpürge");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Yaðmur düþerken yükselen nedir?");
+iterator.setYanit("Þemsiye");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Ýçi sert, dýþý yumuþak.");
+iterator.setYanit("Zeytin");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Dalýnda yeþil, pazarda siyah, evde kýrmýzý olan þey nedir?");
+iterator.setYanit("Çay");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Ýçini boþaltýnca büyüyen þey nedir?");
+iterator.setYanit("Çukur");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Elden ele, telden tele, bunu bilmeyen kertenkele.");
+iterator.setYanit("Para");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Baþ aþaðý çevrilince deðeri azalan þey nedir?");
+iterator.setYanit("Dokuz rakamý");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Eve anahtarsýz girer.");
+iterator.setYanit("Duman");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Gez gez bitmez, o ölmez.");
+iterator.setYanit("Ayakkabý");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Burdan vurdum kýlýcý, Halep'ten çýktý ucu.");
+iterator.setYanit("Þimþek");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("1 aða, 9 köle");
+iterator.setYanit("Güneþ ve Gezegenler");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Sakalý var dede deðil, ormana gider avcý deðil.");
+iterator.setYanit("Aslan");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Bir küçücük kumbara, erzak taþýr ambara.");
+iterator.setYanit("Karýnca");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Hareket etmeden neyimizi deðiþtiririz?");
+iterator.setYanit("Düþüncemizi");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Baþkasýna verdiðimiz halde bizim tutuðumuz þey nedir?");
+iterator.setYanit("Söz");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Kabuðu var, içi yok, dandin eder pekçok, herkesi seyre toplar, çomaðý yer, suçu yok.");
+iterator.setYanit("Davul");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Paylaþtýkça artar hiç bitmez acaba bu þey nedir?");
+iterator.setYanit("Sevgi");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Pazardan alýnmaz, poþete konulmaz, tadýna doyum olmaz.");
+iterator.setYanit("Uyku");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Kýzgýn gemi, dümdüz eder heryeri.");
+iterator.setYanit("Ütü");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Bir karýþ boyu var, hayvandan soyu var, oturmuþ kendikendini yer ne kötü huyu var.");
+iterator.setYanit("Mum");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Hangi meslektekiler çalýþýrken sigara içemez?");
+iterator.setYanit("Dalgýçlar");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Eðri çýnar, yerden alýr, gökte yer.");
+iterator.setYanit("Deve");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Göz ile görülmez, el ile tutulmaz, bundan uzak duranlar saðlamdýr hasta olmaz.");
+iterator.setYanit("Mikrop");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Bir kaðýt parçasý, içi parayla dolu.");
+iterator.setYanit("Çek");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Bir adam varmýþ, çölde tek baþýnaymýþ, baþka hiçbir þey yokmuþ bir þey içmiþ. Ne içmiþtir?");
+iterator.setYanit("And içmiþ");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("O söyler ben dinlerim, ben söylerim o dinlemez. Bil bakalým ben kimim?");
+iterator.setYanit("Radyo");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Ne yerde ne gökte sepetin içinde Allah'ýn emrinde.");
+iterator.setYanit("kýsmet");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Ben varmadan o varýr, her þeyden çok o yol alýr.");
+iterator.setYanit("Iþýk");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Bir kafa kuzgun kuyruðu kendinden uzun.");
+iterator.setYanit("Tava");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Memleketim Mersin, her gün beni yersin.");
+iterator.setYanit("Portakal");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Öðütülür buðday deðil, köpüðü var sabun deðil.");
+iterator.setYanit("Kahve");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Yeter Çektiðim! diye yakýnýr.");
+iterator.setYanit("Fotoðraf makinesi");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Yol üstünde durur, gelene geçene buyurur.");
+iterator.setYanit("Trafik polisi");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Buzdolabýna giren sineðe ne olur?");
+iterator.setYanit("Yazýk olur");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Ayakta yetiþen bitki nedir?");
+iterator.setYanit("Mantar");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Ayakkabýcýlarýn en çok sevdiði hayvan hangisidir?");
+iterator.setYanit("Kýrkayak");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Hangi bacalardan duman tütmez?");
+iterator.setYanit("Peri bacalarýndan");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Matematik kitabý Türkçe kitabýna ne demiþ?");
+iterator.setYanit("çok problemim var");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Hiç kimsenin okuyamadýgý yazý hangisidir?");
+iterator.setYanit("Alýn yazýsý");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Yarým elma neye benzer?");
+iterator.setYanit("Diðer yarýsýna");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("En son hangi diþler çýkar?");
+iterator.setYanit("Takma diþler");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Her tarafý sayýlarla dolu olan adama ne denir?");
+iterator.setYanit("Numaracý");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Hangi karnede sýfýr olmaz?");
+iterator.setYanit("Saðlýk karnesinde");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Hangi yolda trafik kazasý olmaz?");
+iterator.setYanit("Samanyolu'nda");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Tabanca ne ile temizlenir?");
+iterator.setYanit("Dikkatle");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Gözlemeyi en çok kim sever?");
+iterator.setYanit("Nöbetçi");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Düþünen file ne denir?");
+iterator.setYanit("Filozof");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Bozulduðu halde tamir edilmeyen þey nedir?");
+iterator.setYanit("Hava");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Ýlk Türk bayraðýný kim dikmiþtir?");
+iterator.setYanit("Terzi");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Kimin önünde herkes þapka çýkarýr?");
+iterator.setYanit("Berberin");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Arýlar hangi kovana bal yapamazlar?");
+iterator.setYanit("Mermi kovanýna");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Hiç kimsenin gitmek istemediði köy hangisidir?");
+iterator.setYanit("Tahtalýköy");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Çalmak fiilinin gelecek zamaný nedir?");
+iterator.setYanit("Hapse girmek");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Hangi devirde yastýk savaþý yapýlmaz?");
+iterator.setYanit("Taþ devrinde");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Termometrenin düþmesi neyi gösterir?");
+iterator.setYanit("Çivinin iyi çakýlmadýðýný");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Hangi kuyudan su içilmez?");
+iterator.setYanit("Petrol kuyusundan");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Ýnsan ne yiyince üzülür?");
+iterator.setYanit("Kazýk");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Ateþ olmayan yerde ne olmaz?");
+iterator.setYanit("itfaiye");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Elemeden yoðurur, günaþýrý doðurur.");
+iterator.setYanit("Tavuk");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Yük görünce kaçar, ot görünce koþar.");
+iterator.setYanit("Eþek");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Fýrýnda piþer, mideye düþer.");
+iterator.setYanit("Ekmek");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("En kibar kuþ hangisidir?");
+iterator.setYanit("Baykuþ");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Kumsal denize ne demiþ?");
+iterator.setYanit("benimle dalga geçme");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Kat kar açýlýr, kokusundan kaçýlýr?");
+iterator.setYanit("Soðan");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Toplamaz, çýkarmaz, sadece çarpar.");
+iterator.setYanit("Elektrik");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Hangi dolaba giysi koyulmaz?");
+iterator.setYanit("buz dolabýna");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("En hýzlý kýyafet hangisidir?");
+iterator.setYanit("Atlet");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Ýnsanýn gözü kapalý yaptýðý en iyi þey nedir?");
+iterator.setYanit("Uyumak");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Duvara çarpan arabaya ne olur?");
+iterator.setYanit("Durur");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Hangi kanun insanlarý yargýlamaz?");
+iterator.setYanit("yerçekimi kanunu");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Pijama giymiþ eþeðe ne denir?");
+iterator.setYanit("iyi geceler");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Neron Roma'yý neden yakmýþtýr?");
+iterator.setYanit("üþüdüðü için");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Dünya'da en çok ne yenir?");
+iterator.setYanit("Ceza");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Bilgisayara niçin virüs girer?");
+iterator.setYanit("aþý olmadýðý için");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Hangi tarlada meyve yetiþtirilmez?");
+iterator.setYanit("Mayýn tarlasýnda");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Küp þeker, toz þekere ne de demiþ?");
+iterator.setYanit("biraz kendini topla demiþ");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Yiyince bizi piþman eden tatlý nedir?");
+iterator.setYanit("Piþmaniye");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Sarýdýr limon deðil, ince uzun pýrasa deðil. Tadýný sorsan bal gibi, þekli bir hilal gibi.");
+iterator.setYanit("Muz");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Gelirmi gelir, gitti mi gelmez.");
+iterator.setYanit("Gençlik");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Çarþýdan aldým bir tane eve geldim bin tane.");
+iterator.setYanit("Yapboz");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Uyudum yumuþak yattým sýcak sýcak.");
+iterator.setYanit("Yatak");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Güneþi arkana alýrsan ne olur ?");
+iterator.setYanit("Gölge");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Bana sahipsin ama beni paylaþmak istersin ama beni paylaþýrsan bana sahip olamazsýn.");
+iterator.setYanit("Sýr");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Baðlarým yürür, çözerim durur.");
+iterator.setYanit("Ayakkabý");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Uzundur ip deðil, ýsýrýr köpek deðil.");
+iterator.setYanit("Yýlan");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Zilim var, kapým yok.");
+iterator.setYanit("Telefon");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Bir sihirli fenerim, kibritsiz de yanarým.");
+iterator.setYanit("Ampul");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Bakmasý güzel, almasý üzer.");
+iterator.setYanit("Gül");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Biz,  biz idik, otuz iki kýz idik, ezildik, büzüldük, bir araya dizildik.");
+iterator.setYanit("Diþler");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Ýnci gibi diþlerim, odunlarý keserim.");
+iterator.setYanit("Testere");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Ben iki hasretlinin arasýnda dururum. Onlarý konuþtururum.");
+iterator.setYanit("Telefon");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Ýnek verir bize, afiyet olsun diye.");
+iterator.setYanit("Süt");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Kýþtan kaçmaz, yapraðý uçmaz.");
+iterator.setYanit("Çam aðacý");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Meyvelerin en güzeli, yem yeþil bahçe gibi.");
+iterator.setYanit("Erik");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Yedim yeþil bir külah, aðzým yandý vah vah.");
+iterator.setYanit("Biber");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Tarlada bitmez, saksýda bitmez, yerde var, gökte var, suda yok");
+iterator.setYanit("Hava");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Benim bir kaþýk boyam var, dünyayý boyar.");
+iterator.setYanit("Güneþ");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Ýlkbaharda yeþildi rengim, sonbaharda sarardý.");
+iterator.setYanit("Yaprak");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Ben giderim, o gider, baþýmda gölge eder.");
+iterator.setYanit("Þemsiye");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Hava karardý, þimþek çaktý, her tarafý sel aldý.");
+iterator.setYanit("Yaðmur");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Beyazdýr kaðýt deðil, havada gezer uçak deðil.");
+iterator.setYanit("Bulut");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Benim bir aðacým var, her gün bir yaprak döker.");
+iterator.setYanit("Takvim");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Biz 32 kardeþiz. 16'mýz siyah 16'mýz beyaz. Siyah beyaz bir tahtada toplantý yaparýz.");
+iterator.setYanit("Satranç takýmý");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Benim bir bahçem var içi suyla kaplý.");
+iterator.setYanit("Havuz");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Tuðladan yapýsý, kiremitten þapkasý.");
+iterator.setYanit("Ev");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Evin sýcak direði, pýt pýt eder yüreði.");
+iterator.setYanit("Baba");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Bizi çok sever anne baba deðil, çalýþýrsan gözüne girersin, çoðunlukla onu görürsün.");
+iterator.setYanit("Öðretmen");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Su üþümüþ ben olmuþum, güneþ çýkýnca yok olmuþum.");
+iterator.setYanit("Buz");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Ha iki teker ha üç teker, iki ayakla nasýl gider?");
+iterator.setYanit("Bisiklet");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Tereyaðý, þerbet, fýstýk, Yufka içine bastýk, Dörtgen dilimler kestik.");
+iterator.setYanit("Baklava");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Cevap aðzýnda yoktur diþi, her gün yemektir iþi.");
+iterator.setYanit("Bebek");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Yaz desem yazar, çiz desem çizer, resim yapmayý nede çok sever.");
+iterator.setYanit("Kalem");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Gider gider izi yok, burnu kara gözü yok.");
+iterator.setYanit("Gemi");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Çýt çýt yenir, adýna eðlence denir.");
+iterator.setYanit("Çekirdek");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Yaþý yok, baþý yok, adam olmuþ, söz keser.");
+iterator.setYanit("Nokta");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Dalda sallanýr, kazanda kaynar, her sabah masamýzda bize el sallar.");
+iterator.setYanit("Reçel");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Yazýlýr üstüme, bilgiliyimdir de okullarda meþhurum da bul bakalým beni.");
+iterator.setYanit("Akýllý tahta");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Yerim yerim yitmez, karnýma gitmez.");
+iterator.setYanit("Sakýz");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Beyaz elbiseli askerler, susayana su verirler.");
+iterator.setYanit("Bulutlar");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Kýþta deðil yazda, ocakta deðil dolaptadýr.");
+iterator.setYanit("Dondurma");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Uçar kelebek deðil, beyazdýr bulut deðil.");
+iterator.setYanit("güvercin");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Her þeyi öðütür ama yorulmaz.");
+iterator.setYanit("Mide");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Tatlýmý tatlý, yuvarlak bir kabýn icinde saklý.");
+iterator.setYanit("Fýndýk");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Bilemezsin bildirir, düðmeleri vardýr þekil þekil.");
+iterator.setYanit("Bilgisayar");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Yol gösteririm ama yoldan gidemem.");
+iterator.setYanit("Pusula");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Yeli var ççurmaz, akrep görse hiç durmaz?");
+iterator.setYanit("Yelkovan");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Yer üstünde yeþil kýlýç.");
+iterator.setYanit("Ot");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Daða çýktým çekiçle vurdum bütün mahalle duydu.");
+iterator.setYanit("Þimþek");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Kilitli bir kitap içinde özel þeyler yazar.");
+iterator.setYanit("Günlük");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Giy özel ayakkabýlarýný, çýk buz pistine, ister dans et, ister yarýþ rüzgarla.");
+iterator.setYanit("Buz pateni");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Kopmuþ kutuplardaki buzullardan. Bir buz parçasý kocaman yüzer soðuk denizlerde durmadan.");
+iterator.setYanit("Buzdaðý");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Yükselirim göklere bulutlarýn üstüne, uçaklar geçer yanýmdan duyarým kulaklarýmla seslerini.");
+iterator.setYanit("Gökdelen");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Üç ayaklý tek gözlü?");
+iterator.setYanit("Teleskop");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Zýplar zýplar yerinden oynar.");
+iterator.setYanit("Kurbaða");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Aðaçlar çiçek açar, tüm hayvanlar yavrular, her yer yeþerir doða þenlenir.");
+iterator.setYanit("Ýlkbahar");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Benim bir suyum var dökerim bizmez.");
+iterator.setYanit("Þelale");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Dokdor verdi, ben içtim, iyileþtim.");
+iterator.setYanit("Ýlaç");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Bahçede durur hiç kýpýrdamadan kargalarý kovalar.");
+iterator.setYanit("Korkuluk");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Çýt çýt çalýþýr, kurulunca baðrýþýr.");
+iterator.setYanit("Çalar saat");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Rengi yeþil, çubukta yetiþir. Hem taze hem de kuru yenir.");
+iterator.setYanit("Fasulye");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Anahtarla açýlmayan kilit nedir?");
+iterator.setYanit("Tuþ kilidi");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Telde yürür görünmez ev ev gezer erinmez?");
+iterator.setYanit("Elektrik");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("En temiz böcek hangisidir?");
+iterator.setYanit("Hamam böceði");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Aðzý küçük, midesi büyük.");
+iterator.setYanit("Çocuk");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Ýletiþim aðý, baðlan ona keþfet dünyayý!");
+iterator.setYanit("Ýnternet");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Kocaman bir toz ve buz topu, arkasýnda iz býrakýr kuyruðu.");
+iterator.setYanit("Kuyrukluyýldýz");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Yeni baðlantýlar kurdukça içinde, bulmacalarý da çözersin, en zor problemleri de!");
+iterator.setYanit("Beyin");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Termometredir ölçme aracý, kutuplarla ekvator arasýnda çok farlý!");
+iterator.setYanit("Sýcaklýk");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Kýtalarý birbirinden ayýrýr, gemilerle, uçaklarla aþýlýr!");
+iterator.setYanit("Okyanus");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Harekete karþý koyan kuvvet, durdurur seni sonunda elbet!");
+iterator.setYanit("Sürtünme kuvveti");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Eþi benzeri olmayan bir küre, Bir çok canlý yaþar üzerinde.");
+iterator.setYanit("Dünya");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Sihirlidir sanki, Koþturur peþinden toplu iðneleri.");
+iterator.setYanit("Mýknatýs");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Ampul, bilgisayar, uzay aracý, Hepsi onun marifeti, yaþamý kolaylaþtýrýcý!");
+iterator.setYanit("Teknoloji");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Damarlarýmýzýn içinde dolaþýr, besinler vücudumuzun her yerine onunla taþýnýr.");
+iterator.setYanit("Kan");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Sporlarýn en eskilerinden biri, Tam da pehlivan iþi, Yere yýkmak rakibi.");
+iterator.setYanit("Güreþ");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Sallar birbirine yumruklarý iki sporcu, Kalkamazsa on saniye yere düþen, Olur nakavtla maçý kaybeden.");
+iterator.setYanit("Boks");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Bir çok stili var: serbest, kelebek, Kurbaðalama, sýrüstü, karýþýk. Ne kadar hýzlý atýlýrsa kulaçlar, O kadar kolay olur kazanmak.");
+iterator.setYanit("Yüzme");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Hem açar, hem kapar.");
+iterator.setYanit("Anahtar");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Yazýn giyinir, kýþýn soyunur.");
+iterator.setYanit("Aðaç");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Bilmece bildirmece ayak altýnda kaydýrmaca.");
+iterator.setYanit("Kayak");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Ben yazarým o bozar, doðruya gelmez zarar.");
+iterator.setYanit("Silgi");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Ateþ olmayan yerde ne olmaz?");
+iterator.setYanit("Ýtfaiye");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Her gün yeniden doðar dünyaya haber yayar.");
+iterator.setYanit("Gazete");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Hangi teker dönmez?");
+iterator.setYanit("Yedek teker");
+bilmeceler.add(iterator);
+
+iterator = new Bilmece();
+iterator.setSoru("Horoz nerede öter?");
+iterator.setYanit("Kendi çöplüðünde");
+bilmeceler.add(iterator);
+
