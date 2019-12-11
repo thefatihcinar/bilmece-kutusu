@@ -6,7 +6,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/1280px-Flag_of_the_United_States.svg.png" width="60" height="30"> 
 
 ### The Box of Riddles
-__Description__: "The Box of Riddles" is an Android Game that I developed for people play. It includes more than 320 riddles in Turkish language and entertains people. <br>
+__Description__: "The Box of Riddles" is an Android Game that I developed for people to play. It includes more than 320 riddles in Turkish language and entertains people. <br>
 __Algorithms Developed__: 
 + __Randomization of The Questions__ <br>
   It randomizes questions without changing the order of the linked list, it does randomization in a very efficient manner and never asks a question that has been asked before. 
