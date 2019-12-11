@@ -23,7 +23,7 @@ __Algorithms Developed__:
 | :-------------: |:-------------:| :-----:|  :-----:| :-----:|
 | Bilmece Kutusu  | `Java` | [Link](https://github.com/fatihcinar1/bilmece-kutusu/tree/master/Bilmece%20Kutusu/Bilmece) |  [APK](https://github.com/fatihcinar1/bilmece-kutusu/blob/master/Bilmece%20Kutusu/APK/bilmece-kutusu-v2.apk) | - | 
  
- __Açıklama__: "Bilmece Kutusu" birçok yaştan insanın oynayıp eğlenebileceği bir Android oyunudur. Android programalamaya başlanıç seviyesinde geliştirdiğim uygulama. 
+ __Açıklama__: "Bilmece Kutusu" birçok yaştan insanın oynayıp eğlenebileceği bir Android oyunudur. Android programalamaya başlanıç seviyesinde geliştirdiğim uygulama. <br> 
  __Geliştirilen Algoritmalar__: 
 + __Soruların Rastgele Seçilmesi__ <br>
   Bu algoritma soruları rastgele seçiyor fakat kullanıcı 320 sorudan aynı soruyu tekrar tekrar görmek istemeyeceği için en başta ilk 320 soruyu tamamen sorana kadar aynı soruyu tekrar sormuyor. Bunu belleği verimli kullanarak yapıyor. Sorular bağlı listesine dokunmuyor. Poziyonlar ile oynuyor, bunları tutuyor.
