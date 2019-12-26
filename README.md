@@ -37,7 +37,8 @@ __Algorithms Developed__:
 
 <br>
 
-<img src="https://github.com/fatihcinar1/bilmece-kutusu/blob/master/Bilmece%20Kutusu/Images/P2.png?raw=true" width="280" height="560">  <img src="https://github.com/fatihcinar1/bilmece-kutusu/blob/master/Bilmece%20Kutusu/Images/P3.png?raw=true" width="280" height="560">  <img src="https://github.com/fatihcinar1/bilmece-kutusu/blob/master/Bilmece%20Kutusu/Images/P4.png?raw=true" width="280" height="560">
+<img src="https://github.com/fatihcinar1/bilmece-kutusu/blob/master/Bilmece%20Kutusu/Images/P1.png?raw=true" width="280" height="560">  <img src="https://github.com/fatihcinar1/bilmece-kutusu/blob/master/Bilmece%20Kutusu/Images/P2.png?raw=true" width="280" height="560">  <img src="https://github.com/fatihcinar1/bilmece-kutusu/blob/master/Bilmece%20Kutusu/Images/P3.png?raw=true" width="280" height="560">
 
-<img src="https://github.com/fatihcinar1/bilmece-kutusu/blob/master/Bilmece%20Kutusu/Images/P5.png?raw=true" width="280" height="560">  <img src="https://github.com/fatihcinar1/bilmece-kutusu/blob/master/Bilmece%20Kutusu/Images/P6.png?raw=true" width="280" height="560">  <img src="https://github.com/fatihcinar1/bilmece-kutusu/blob/master/Bilmece%20Kutusu/Images/P7.png?raw=true" width="280" height="560">
+<img src="https://github.com/fatihcinar1/bilmece-kutusu/blob/master/Bilmece%20Kutusu/Images/P4.png?raw=true" width="280" height="560">  <img src="https://github.com/fatihcinar1/bilmece-kutusu/blob/master/Bilmece%20Kutusu/Images/P5.png?raw=true" width="280" height="560">  <img src="https://github.com/fatihcinar1/bilmece-kutusu/blob/master/Bilmece%20Kutusu/Images/P6.png?raw=true" width="280" height="560">
 
+<img src="https://github.com/fatihcinar1/bilmece-kutusu/blob/master/Bilmece%20Kutusu/Images/P7.png?raw=true" width="280" height="560">
