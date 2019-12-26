@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/winScreenBackground"
+    android:orientation="vertical"
+    tools:context="com.example.user.bilmece.Win">
+
+    <ImageView
+        android:id="@+id/imageCongrats"
+        android:layout_width="400dp"
+        android:layout_height="250dp"
+
+        android:layout_marginTop="120dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/win_screen" />
+
+    <ImageView
+        android:id="@+id/buttonReplay2"
+        android:layout_width="195dp"
+        android:layout_height="57dp"
+        android:layout_marginBottom="132dp"
+        android:layout_marginEnd="82dp"
+        android:layout_marginStart="107dp"
+        android:layout_marginTop="8dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageCongrats"
+        app:layout_constraintVertical_bias="0.0"
+        app:srcCompat="@drawable/button_replay" />
+
+
+</android.support.constraint.ConstraintLayout>

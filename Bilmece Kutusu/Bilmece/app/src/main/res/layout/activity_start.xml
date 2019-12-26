@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/the_game_background"
+    tools:context="com.example.user.bilmece.StartActivity">
+
+
+    <TextView
+        android:id="@+id/tvBilmeceKutusu"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="50dp"
+        android:layout_marginStart="51dp"
+        android:layout_marginTop="30dp"
+        android:fontFamily="@font/kavoon"
+        android:text="Bilmece\nKutusu"
+        android:textAlignment="center"
+        android:textColor="@color/pink2"
+        android:textSize="67sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageView
+        android:id="@+id/imageViewTheBox"
+        android:layout_width="240dp"
+        android:layout_height="260dp"
+        android:layout_marginEnd="88dp"
+        android:layout_marginStart="88dp"
+        android:layout_marginTop="15dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/tvBilmeceKutusu"
+        app:srcCompat="@drawable/box4" />
+
+    <ImageView
+        android:id="@+id/imageViewStartGame"
+        android:layout_width="234dp"
+        android:layout_height="92dp"
+        android:layout_marginBottom="33dp"
+        android:layout_marginEnd="75dp"
+        android:layout_marginStart="75dp"
+        android:layout_marginTop="20dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageViewTheBox"
+        app:layout_constraintVertical_bias="0.0"
+        app:srcCompat="@drawable/startgame_button" />
+
+</android.support.constraint.ConstraintLayout>
